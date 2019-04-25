@@ -20,10 +20,7 @@ Ria dataset
 | --------- | --------- | --------- |
 | 0.07710538 | 0.07363297 | 0.15141239 |
 
-### OpenNMT baseline scores
-
-rouge-1-f	rouge-1-p	rouge-1-r	rouge-2-f	rouge-2-p	rouge-2-r	rouge-l-f	rouge-l-p	rouge-l-r
-								
+### OpenNMT baseline scores	
 
 | rouge-1-f	| rouge-1-p	| rouge-1-r	| 
 | ---------	| ---------	| ---------	| 
