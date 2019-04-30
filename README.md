@@ -4,7 +4,7 @@ An implementation of a paper "Get To The Point: Summarization with Pointer-Gener
 
 ## Baseline scores comparison	
 
-Using ria-news dataset.
+Evaluating on ria-news dataset.
 
 Baseline\Metric | rouge-1-f	| rouge-1-p	| rouge-1-r	| rouge-2-f	| rouge-2-p	| rouge-2-r	| rouge-l-f	| rouge-l-p	| rouge-l-r |
 --------- | --------- | --------- | --------- |  --------- | --------- | --------- | --------- | --------- | --------- |
