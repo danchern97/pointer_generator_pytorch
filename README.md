@@ -1,6 +1,6 @@
 # Pytorch implementation of summarization with Pointer-Generator Networks.
 
-An implementation of a paper ["Get To The Point: Summarization with Pointer-Generator Networks"] (https://arxiv.org/pdf/1704.04368.pdf) with a few modifications added.
+An implementation of a paper ["Get To The Point: Summarization with Pointer-Generator Networks"](https://arxiv.org/pdf/1704.04368.pdf) with a few modifications added.
 
 ## Baseline scores comparison	
 
