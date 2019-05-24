@@ -1,10 +1,10 @@
 # Pytorch implementation of summarization with Pointer-Generator Networks.
 
-An implementation of a paper "Get To The Point: Summarization with Pointer-Generator Networks" (https://arxiv.org/pdf/1704.04368.pdf) with a few modifications added.
+An implementation of a paper ["Get To The Point: Summarization with Pointer-Generator Networks"] (https://arxiv.org/pdf/1704.04368.pdf) with a few modifications added.
 
 ## Baseline scores comparison	
 
-Evaluating on ria-news dataset.
+Evaluating on [ria-news](https://github.com/RossiyaSegodnya/ria_news_dataset) dataset.
 
 Baseline\Metric | rouge-1-f	| rouge-1-p	| rouge-1-r	| rouge-2-f	| rouge-2-p	| rouge-2-r	| rouge-l-f	| rouge-l-p	| rouge-l-r |
 --------- | --------- | --------- | --------- |  --------- | --------- | --------- | --------- | --------- | --------- |
